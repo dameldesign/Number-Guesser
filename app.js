@@ -38,7 +38,7 @@ guessBtn.addEventListener("click", function (e) {
     setTimeout(() => {
       window.location.reload();
       
-    }, 4000);
+    }, 2000);
   }
 
   // Validate
